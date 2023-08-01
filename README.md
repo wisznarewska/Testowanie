@@ -1,1 +1,12 @@
 # SOFTWARE TESTER PORTFOLIO - Katarzyna Wisznarewska
+
+## O MNIE
+
+## PROJEKTY
+JIRA
+SQL
+RAPORT Z TESTÓW
+
+
+## KURSY
+
